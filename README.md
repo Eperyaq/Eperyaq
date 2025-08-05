@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-I'm a web development student currently finishing my last course. I am expanding my knowledge in both front-end and back-end development, I love to learn and build something new, productive, innovative and creative.
+I'm a web development student. I am expanding my knowledge in both front-end and back-end development, I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing and Web development**
 
 
